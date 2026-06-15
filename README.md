@@ -6,7 +6,6 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![timm](https://img.shields.io/badge/timm-DeiT-blueviolet)](https://github.com/huggingface/pytorch-image-models)
-[![Status](https://img.shields.io/badge/status-preprint-lightgrey)]()
 
 ---
 
